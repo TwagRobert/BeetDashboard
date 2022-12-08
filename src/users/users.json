@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Beet agency",
+        "email": "it@beet.se",
+        "password": "12345678",
+        "password_confirmation": "12345678"
+      }
+]
